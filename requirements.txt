@@ -1,0 +1,6 @@
+numpy==1.26.4
+torch
+transformers==4.39.3
+diffusers==0.27.2
+huggingface_hub==0.20.2
+gradio==3.50.2
