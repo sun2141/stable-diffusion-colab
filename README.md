@@ -18,5 +18,5 @@ pip install -r requirements.txt
 Open in Google Colab:
 
 ```
-https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/notebooks/sd_generate.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sun2141/stable-diffusion-colab/blob/main/notebooks/sd_generate_fixed.ipynb)
 ```
